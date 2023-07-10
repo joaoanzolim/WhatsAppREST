@@ -25,7 +25,7 @@ Conheça o canal da Comunidade ZDG:
 - curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash –
 - sudo apt-get install -y nodejs
 - apt-get install libnss3-dev libgdk-pixbuf2.0-dev libgtk-3-dev libxss-dev libasound2
-- git clone https://github.com/pedroherpeto/zapdasgalaxias.git
+- git clone https://github.com/joaoanzolim/WhatsAppREST.git
 - cd zapdasgalaxias
 - sudo npm install
 - npm start
